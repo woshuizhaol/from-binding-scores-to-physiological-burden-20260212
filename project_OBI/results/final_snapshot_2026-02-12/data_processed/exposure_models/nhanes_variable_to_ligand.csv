@@ -1,0 +1,10 @@
+variable,label,short_name,preferred_name_expected,casrn,dtxsid_expected,inventory_match_n,inventory_preferred_name,inventory_match_by_cas_n,manifest_match_n,ligand_id,mw_g_mol
+LBXBFOA,Br. perfluorooctanoic acid iso (ng/mL),Sb-PFOA,Perfluorooctanoic acid,335-67-1,DTXSID8031865,1,Perfluorooctanoic acid,1,1,340_DTXSID8031865,414.064
+LBXMFOS,Sm-PFOS (ng/mL),Sm-PFOS,Perfluorooctanesulfonic acid,1763-23-1,DTXSID3031864,1,Perfluorooctanesulfonic acid,1,1,146_DTXSID3031864,500.126
+LBXMPAH,2-(N-methyl-PFOSA)acetic acid (ng/mL),MeFOSAA,2-(N-methylperfluorooctane sulfonamido)acetic acid,2355-31-9,DTXSID10624392,0,,0,1,431_DTXSID10624392,571.205
+LBXNFOA,n-perfluorooctanoic acid (ng/mL),n-PFOA,Perfluorooctanoic acid,335-67-1,DTXSID8031865,1,Perfluorooctanoic acid,1,1,340_DTXSID8031865,414.064
+LBXNFOS,n-perfluorooctane sulfonic acid (ng/mL),n-PFOS,Perfluorooctanesulfonic acid,1763-23-1,DTXSID3031864,1,Perfluorooctanesulfonic acid,1,1,146_DTXSID3031864,500.126
+LBXPFDE,Perfluorodecanoic acid (ng/mL),PFDeA,Perfluorodecanoic acid,335-76-2,DTXSID3031860,1,Perfluorodecanoic acid,1,1,150_DTXSID3031860,514.078
+LBXPFHS,Perfluorohexane sulfonic acid (ng/mL),PFHxS,Perfluorohexanesulfonic acid,355-46-4,DTXSID7040150,1,Perfluorohexanesulfonic acid,1,1,387_DTXSID7040150,400.112
+LBXPFNA,Perfluorononanoic acid (ng/mL),PFNA,Perfluorononanoic acid,375-95-1,DTXSID8031863,1,Perfluorononanoic acid,1,1,336_DTXSID8031863,464.071
+LBXPFUA,Perfluoroundecanoic acid (ng/mL),PFUA,Perfluoroundecanoic acid,2058-94-8,DTXSID8047553,1,Perfluoroundecanoic acid,1,1,159_DTXSID8047553,564.085

@@ -1,0 +1,10 @@
+{
+  "endpoint": "OBI_ref",
+  "transform": "log10(y + 1e-12)",
+  "split_strategy": "scaffold",
+  "n_samples": 409,
+  "n_repeats": 10,
+  "base_seed": 2026,
+  "best_model_by_mean_test_r2_log": "RandomForest",
+  "shap_generated": true
+}

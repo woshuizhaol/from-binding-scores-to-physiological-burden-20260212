@@ -1,0 +1,14 @@
+{
+  "n_targets": 7,
+  "n_success": 7,
+  "n_failed": 0,
+  "rmsd_pass_threshold_A": 2.0,
+  "pass_rate_mode1": 0.2857142857142857,
+  "pass_rate_min": 0.2857142857142857,
+  "median_rmsd_mode1_A": 4.084381598242827,
+  "median_rmsd_min_A": 3.8329547397190806,
+  "mean_rmsd_mode1_A": 3.379022322964571,
+  "mean_rmsd_min_A": 3.2308381851444468,
+  "max_rmsd_mode1_A": 6.183868826085774,
+  "max_rmsd_min_A": 6.085800486831359
+}

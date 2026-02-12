@@ -1,0 +1,26 @@
+ligand_id,DTXSID,preferred_name,smiles_anionic,failed_jobs,stderr
+032_DTXSID60217076,DTXSID60217076,Hexafluoroacetylacetone dihydrate,O.O.O=C(CC(=O)C(F)(F)F)C(F)(F)F,15,"PDBQT parsing error: Unknown or inappropriate tag found in flex residue or ligand.
+ > ROOT"
+049_DTXSID40235137,DTXSID40235137,Dimethoxymethyl((perfluorohexyl)ethyl)silane,CO[Si](C)(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OC,15,PDBQT parsing error: No atoms in this ligand.
+050_DTXSID80235136,DTXSID80235136,[2-(Perfluorohexyl)ethyl]trimethoxysilane,CO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OC)OC,15,PDBQT parsing error: No atoms in this ligand.
+069_DTXSID10225601,DTXSID10225601,2-(Perfluorooctyl)ethyldimethylchlorosilane,C[Si](C)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.
+082_DTXSID00871631,DTXSID00871631,Perfluoromethyldecalin,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C(F)(F)C2(F)C1C(F)(F)C(F)(F)C(F)(F)C2(F)F,15,PDBQT parsing error: No atoms in this ligand.
+091_DTXSID8037708,DTXSID8037708,Ammonium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+],15,"PDBQT parsing error: Unknown or inappropriate tag found in flex residue or ligand.
+ > ROOT"
+092_DTXSID8037706,DTXSID8037706,Potassium perfluorooctanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],15,PDBQT parsing error: No atoms in this ligand.
+105_DTXSID1075222,DTXSID1075222,Perfluorodimethylcyclobutane,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C1C(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.
+140_DTXSID50229163,DTXSID50229163,Trichloro((perfluorohexyl)ethyl)silane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC[Si](Cl)(Cl)Cl,15,PDBQT parsing error: No atoms in this ligand.
+141_DTXSID00223797,DTXSID00223797,Dichloromethyl((perfluorohexyl)ethyl)silane,C[Si](Cl)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.
+143_DTXSID70400078,DTXSID70400078,(Heptafluoropropyl)trimethylsilane,C[Si](C)(C)C(F)(F)C(F)(F)C(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.
+145_DTXSID00880026,DTXSID00880026,Potassium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],15,PDBQT parsing error: No atoms in this ligand.
+230_DTXSID60892443,DTXSID60892443,Sodium perfluorodecanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],15,PDBQT parsing error: No atoms in this ligand.
+248_DTXSID8051419,DTXSID8051419,"N-[(Perfluorooctylsulfonamido)propyl]-N,N,N-trimethylammonium iodide",C[N+](C)(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[I-],15,"PDBQT parsing error: Unknown or inappropriate tag found in flex residue or ligand.
+ > ROOT"
+310_DTXSID80897718,DTXSID80897718,Perfluoroheptanes (branched and linear),,15,PDBQT parsing error: No atoms in this ligand.
+322_DTXSID40379666,DTXSID40379666,N-Methyl-N-trimethylsilylheptafluorobutyramide,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)[Si](C)(C)C,15,PDBQT parsing error: No atoms in this ligand.
+323_DTXSID3037707,DTXSID3037707,Potassium perfluorobutanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],15,PDBQT parsing error: No atoms in this ligand.
+338_DTXSID3037709,DTXSID3037709,Potassium perfluorohexanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],15,PDBQT parsing error: No atoms in this ligand.
+344_DTXSID40880025,DTXSID40880025,Sodium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],15,PDBQT parsing error: No atoms in this ligand.
+348_DTXSID60394033,DTXSID60394033,"Tris(2,2,2-trifluoroethyl) borate",FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.
+349_DTXSID1074915,DTXSID1074915,Triethoxy((perfluorohexyl)ethyl)silane,CCO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OCC)OCC,15,PDBQT parsing error: No atoms in this ligand.
+358_DTXSID00380753,DTXSID00380753,Trimethylsilyl perfluorobutanesulfonate,C[Si](C)(C)OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,15,PDBQT parsing error: No atoms in this ligand.

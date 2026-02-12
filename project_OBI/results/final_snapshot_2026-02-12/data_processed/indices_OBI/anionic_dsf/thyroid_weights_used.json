@@ -1,0 +1,14 @@
+{
+  "mode": "auto",
+  "weights": {
+    "TBG": 0.8241011863107457,
+    "TTR": 0.079884986697651,
+    "HSA": 0.09601382699160334
+  },
+  "baseline_t4_free_M": 1.6000000125870888e-11,
+  "hsa_calib": "dsf",
+  "hsa_kd_column": "HSA_Kd_M_dsf",
+  "calibrate_t4_kd": true,
+  "t4_free_target_M": 1.6e-11,
+  "Kd_T4_TBG_M": 3.448731633886371e-11
+}

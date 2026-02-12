@@ -1,0 +1,38 @@
+{
+  "state": "anionic",
+  "out_tag": "",
+  "checks": {
+    "ttii_contrib_sum": {
+      "value": 0.0017363394862676134,
+      "target": 0.0017363394862677,
+      "rel_error": 4.995346502502323e-14,
+      "pass": true
+    },
+    "rtii_contrib_sum": {
+      "value": 0.029463020655590498,
+      "target": 0.0294630206555907,
+      "rel_error": 6.8298469992460195e-15,
+      "pass": true
+    },
+    "obi_contrib_sum": {
+      "value": 0.015599680070929055,
+      "target": 0.0155996800709292,
+      "rel_error": 9.229807781403985e-15,
+      "pass": true
+    },
+    "pocket_sequence": {
+      "min_len": 105,
+      "n_x": 0,
+      "pass": true
+    },
+    "redocking_modes": {
+      "has_rmsd_min": true,
+      "num_modes_gt1": true,
+      "pass": true
+    },
+    "mc_summary": {
+      "pass": true,
+      "path": "/home/jida/\u4e0b\u8f7d/wyx/From_binding_scores_to_physiological_burden_20260211/data_processed/indices_OBI/anionic/population_index_summary_mc.csv"
+    }
+  }
+}

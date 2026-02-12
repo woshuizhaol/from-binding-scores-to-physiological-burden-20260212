@@ -1,0 +1,31 @@
+{
+  "formula": "log10(Kd_M) = deltaG/(RT*ln(10)) + offset_target",
+  "R_kcal_mol_K": 0.001987,
+  "T_K": 310.0,
+  "hsa_calibration_mode": "strong",
+  "offset_by_target": {
+    "TTR": -1.3320511567883986,
+    "HSA": 6.935645662752898
+  },
+  "offset_stats": {
+    "TTR": {
+      "offset_log10": -1.3320511567883986,
+      "mad_log10": 0.2251908800838638,
+      "n_points": 8
+    },
+    "HSA": {
+      "offset_log10": 6.935645662752898,
+      "mad_log10": 2.8116732088742937,
+      "n_points": 2
+    }
+  },
+  "sigma_log10_residual": 1.4124122194488031,
+  "n_points": 10,
+  "hsa_dsf_offset_log10": 5.936468687471567,
+  "hsa_dsf_stats": {
+    "offset_log10": 5.936468687471567,
+    "mad_log10": 2.9318002353949493,
+    "n_points": 3
+  },
+  "sigma_log10_residual_hsa_dsf": 4.008700273017712
+}

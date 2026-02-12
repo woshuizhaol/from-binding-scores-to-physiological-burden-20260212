@@ -1,0 +1,16 @@
+{
+  "n_ligands": 409,
+  "n_targets": 8,
+  "reg": 0.001,
+  "reg_grid": [
+    "1e-4",
+    "3e-4",
+    "1e-3",
+    "3e-3",
+    "1e-2",
+    "3e-2",
+    "1e-1"
+  ],
+  "implementation": "RLScore KronRLS",
+  "missing_policy": "no target-median imputation; train on complete observed blocks and evaluate on observed labels only"
+}

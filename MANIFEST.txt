@@ -1,0 +1,9 @@
+Included:
+- project_OBI/src
+- project_OBI/run_pipeline.sh
+- project_OBI/results/final_snapshot_2026-02-12 (without markdown docs)
+- data_raw/source original input files
+Excluded:
+- all markdown docs (*.md)
+- full docking result directories (docking_scores/*)
+- caches and pyc files

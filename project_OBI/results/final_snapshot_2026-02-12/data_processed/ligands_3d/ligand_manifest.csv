@@ -1,0 +1,432 @@
+ligand_id,DTXSID,preferred_name,smiles_neutral,smiles_anionic,mw
+001_DTXSID70366226,DTXSID70366226,Perfluoropentanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,245.0690
+002_DTXSID80880448,DTXSID80880448,"(1R,4R)-3-(Heptafluorobutyryl)-camphor",CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2C(=O)C(F)(F)C(F)(F)C(F)(F)F,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2C(=O)C(F)(F)C(F)(F)C(F)(F)F,348.2580
+003_DTXSID60654260,DTXSID60654260,"1,1-bis(Trifluoromethyl)methoxy-2-ethanol",OCCOC(C(F)(F)F)C(F)(F)F,OCCOC(C(F)(F)F)C(F)(F)F,212.0890
+004_DTXSID1068772,DTXSID1068772,2-(Perfluorobutyl)ethyl acrylate,C=CC(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,318.1350
+005_DTXSID40190398,DTXSID40190398,Perfluorobutanesulfonic anhydride,O=S(=O)(OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,582.1810
+006_DTXSID60190951,DTXSID60190951,1-H-Perfluorodecane,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,520.0760
+007_DTXSID70276659,DTXSID70276659,"Perfluoro-(2,5,8-trimethyl-3,6,9-trioxadodecanoic) acid",O=C(O)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F)C(F)(F)F,O=C([O-])C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F)C(F)(F)F,662.0890
+008_DTXSID20188995,DTXSID20188995,1H-Perfluorohexane,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,320.0480
+009_DTXSID50382141,DTXSID50382141,Fluorotelomer alcohol 3:2,OCCC(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)F,214.0800
+010_DTXSID10382147,DTXSID10382147,"3-(Perfluoro-2-butyl)propane-1,2-diol",OCC(O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,294.1130
+011_DTXSID60188999,DTXSID60188999,"1H,1H,6H,6H-Perfluoro-1,6-hexanediol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,262.0960
+012_DTXSID0073118,DTXSID0073118,Ethyl perfluorobutyl ether,CCOC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCOC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,264.0870
+013_DTXSID4074932,DTXSID4074932,Perfluoro-2-methyl-3-pentanone,O=C(C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,O=C(C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,316.0410
+014_DTXSID00870523,DTXSID00870523,"1H,1H,3H-Perfluorobutanol",OCC(F)(F)C(F)C(F)(F)F,OCC(F)(F)C(F)C(F)(F)F,182.0630
+015_DTXSID20371305,DTXSID20371305,2-Bromo-2-(Perfluorohexyl)ethene,C=C(Br)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(Br)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,424.9820
+016_DTXSID60371783,DTXSID60371783,"Difluoromethyl 2,2,3,3-tetrafluoropropyl ether",FC(F)OCC(F)(F)C(F)F,FC(F)OCC(F)(F)C(F)F,182.0630
+017_DTXSID30175730,DTXSID30175730,"4H,4H-Perfluoro-6,6-dimethylheptane-3,5-dione",CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)F,CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)F,246.1750
+018_DTXSID50441560,DTXSID50441560,"Methyl 2H,2H,3H,3H-perfluoroheptanoate",COC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,COC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,306.1240
+019_DTXSID00226440,DTXSID00226440,Perfluorohex-1-ene,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,300.0420
+020_DTXSID9061881,DTXSID9061881,"1-Iodo-1H,1H,2H,2H-perfluoroheptane",FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCI,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCI,423.9910
+021_DTXSID90880979,DTXSID90880979,(Perfluoro-n-octyl)ethane,CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,448.1160
+022_DTXSID60379269,DTXSID60379269,3-(Perfluoropropyl)propanol,OCCCC(F)(F)C(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)C(F)(F)F,228.1070
+023_DTXSID60334479,DTXSID60334479,Perfluorononane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,488.0590
+024_DTXSID6067331,DTXSID6067331,6:2 Fluorotelomer sulfonic acid,O=S(=O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,428.1660
+025_DTXSID80375107,DTXSID80375107,11:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,600.1090
+026_DTXSID00379829,DTXSID00379829,7H-Perfluoroheptanoyl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,364.5130
+027_DTXSID3065586,DTXSID3065586,(Perfluoropropyl)methyl methacrylate,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)F,268.1280
+028_DTXSID60380390,DTXSID60380390,"2,2,2-Trifluoroethyl perfluorobutanesulfonate",O=S(=O)(OCC(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(OCC(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,382.1220
+029_DTXSID80382093,DTXSID80382093,2-Aminohexafluoropropan-2-ol,NC(O)(C(F)(F)F)C(F)(F)F,NC(O)(C(F)(F)F)C(F)(F)F,183.0510
+030_DTXSID60379284,DTXSID60379284,"2-(Perfluoropropoxy)-1H,1H-perfluoropropanol",OCC(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,OCC(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,316.0660
+031_DTXSID00194615,DTXSID00194615,"1H,1H,9H-Perfluorononyl acrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,486.1460
+032_DTXSID60217076,DTXSID60217076,Hexafluoroacetylacetone dihydrate,O.O.O=C(CC(=O)C(F)(F)F)C(F)(F)F,O.O.O=C(CC(=O)C(F)(F)F)C(F)(F)F,244.0870
+033_DTXSID20577986,DTXSID20577986,4-(Perfluorobutyl)-2-butanone,CC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,290.1250
+034_DTXSID8059920,DTXSID8059920,Perfluoroheptanesulfonic acid,O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,450.1190
+035_DTXSID70481246,DTXSID70481246,2-Amino-2H-perfluoropropane,NC(C(F)(F)F)C(F)(F)F,NC(C(F)(F)F)C(F)(F)F,167.0520
+036_DTXSID50381073,DTXSID50381073,"Perfluoro-3,6-dioxadecanoic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,446.0620
+037_DTXSID8059926,DTXSID8059926,Perfluoropentanedioic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(=O)[O-],240.0550
+038_DTXSID30880135,DTXSID30880135,1-Perfluoropropylethanol,CC(O)C(F)(F)C(F)(F)C(F)(F)F,CC(O)C(F)(F)C(F)(F)C(F)(F)F,214.0800
+039_DTXSID8059924,DTXSID8059924,Methyl perfluorooctanoate,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,428.0910
+040_DTXSID8059928,DTXSID8059928,Perfluorobutanedioic acid,O=C(O)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(=O)[O-],190.0480
+041_DTXSID70880194,DTXSID70880194,Perfluorooctanedioic diamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(N)=O,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(N)=O,388.1080
+042_DTXSID30235085,DTXSID30235085,"2,4,6-Tris(pentafluoroethyl)-1,3,5-triazine",FC(F)(F)C(F)(F)c1nc(C(F)(F)C(F)(F)F)nc(C(F)(F)C(F)(F)F)n1,FC(F)(F)C(F)(F)c1nc(C(F)(F)C(F)(F)F)nc(C(F)(F)C(F)(F)F)n1,435.0900
+043_DTXSID40379808,DTXSID40379808,"Perfluoro-3,7-dimethyloctanoic acid",O=C(O)C(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,514.0780
+044_DTXSID80315129,DTXSID80315129,Perfluoro-1-butanesulfonyl chloride,O=S(=O)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,318.5440
+045_DTXSID00379925,DTXSID00379925,Perfluorononanoyl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,482.5170
+046_DTXSID30394964,DTXSID30394964,Pentafluoropropylamidine,N=C(N)C(F)(F)C(F)(F)F,N=C(N)C(F)(F)C(F)(F)F,162.0610
+047_DTXSID70379871,DTXSID70379871,3-(Perfluorohexyl)propanol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,378.1280
+048_DTXSID8046614,DTXSID8046614,Sevoflurane,FCOC(C(F)(F)F)C(F)(F)F,FCOC(C(F)(F)F)C(F)(F)F,200.0530
+049_DTXSID40235137,DTXSID40235137,Dimethoxymethyl((perfluorohexyl)ethyl)silane,CO[Si](C)(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OC,CO[Si](C)(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OC,452.2830
+050_DTXSID80235136,DTXSID80235136,[2-(Perfluorohexyl)ethyl]trimethoxysilane,CO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OC)OC,CO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OC)OC,468.2820
+051_DTXSID80382073,DTXSID80382073,(Perfluorooctyl)propyl acetate,CC(=O)OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CC(=O)OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,520.1790
+052_DTXSID4066389,DTXSID4066389,2-Vinyl(1-bromoperfluoroethane),C=CC(F)(F)C(F)(F)Br,C=CC(F)(F)C(F)(F)Br,206.9640
+053_DTXSID30170109,DTXSID30170109,"3,3-Bis(trifluoromethyl)-2-propenoic acid",O=C(O)C=C(C(F)(F)F)C(F)(F)F,O=C([O-])C=C(C(F)(F)F)C(F)(F)F,208.0570
+054_DTXSID70380841,DTXSID70380841,"1H,2H,2H-Perfluorobutane",FC(CC(F)(F)F)C(F)(F)F,FC(CC(F)(F)F)C(F)(F)F,184.0540
+055_DTXSID60188833,DTXSID60188833,Perfluoro-1-decene,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,500.0700
+056_DTXSID80310730,DTXSID80310730,Octafluoroadipamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(N)=O,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(N)=O,288.0940
+057_DTXSID90285748,DTXSID90285748,Methyl perfluoroethyl ketone,CC(=O)C(F)(F)C(F)(F)F,CC(=O)C(F)(F)C(F)(F)F,162.0570
+058_DTXSID70880134,DTXSID70880134,1-Pentafluoroethylethanol,CC(O)C(F)(F)C(F)(F)F,CC(O)C(F)(F)C(F)(F)F,164.0730
+059_DTXSID40377687,DTXSID40377687,"Methyl perfluoro-3,6-dioxaheptanoate",COC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,COC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,310.0680
+060_DTXSID5063235,DTXSID5063235,(Perfluoroheptyl)methyl methacrylate,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,468.1560
+061_DTXSID1032646,DTXSID1032646,N-Ethylperfluorooctane sulfonamide,CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,527.1960
+062_DTXSID20379346,DTXSID20379346,"(2H-Perfluoropropyl)(1H,1H-perfluoroethyl)ether",FC(C(F)(F)F)C(F)(F)OCC(F)(F)F,FC(C(F)(F)F)C(F)(F)OCC(F)(F)F,250.0600
+063_DTXSID70379730,DTXSID70379730,5H-Octafluoropentanoyl fluoride,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,248.0440
+064_DTXSID00382070,DTXSID00382070,5:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,300.0670
+065_DTXSID20335129,DTXSID20335129,"1,6-Dibromododecafluorohexane",FC(F)(Br)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,FC(F)(Br)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,459.8500
+066_DTXSID80569266,DTXSID80569266,"1,2-bis(1,1,2,2-Tetrafluoroethoxy)ethane",FC(F)C(F)(F)OCCOC(F)(F)C(F)F,FC(F)C(F)(F)OCCOC(F)(F)C(F)F,262.0960
+067_DTXSID0073168,DTXSID0073168,"Methyl 3,3,3-trifluoro-2-(trifluoromethyl)propionate",COC(=O)C(C(F)(F)F)C(F)(F)F,COC(=O)C(C(F)(F)F)C(F)(F)F,210.0730
+068_DTXSID10327679,DTXSID10327679,2H-Perfluoroisobutyric acid,O=C(O)C(C(F)(F)F)C(F)(F)F,O=C([O-])C(C(F)(F)F)C(F)(F)F,196.0460
+069_DTXSID10225601,DTXSID10225601,2-(Perfluorooctyl)ethyldimethylchlorosilane,C[Si](C)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C[Si](C)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,540.7170
+070_DTXSID00892442,DTXSID00892442,"Perfluoro-2,5-dimethyl-3,6-dioxanonanoic acid",O=C(O)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,O=C([O-])C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,496.0690
+071_DTXSID1067629,DTXSID1067629,N-Methylperfluorooctanesulfonamide,CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,513.1690
+072_DTXSID00192353,DTXSID00192353,8:2 Fluorotelomer sulfonic acid,O=S(=O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,528.1800
+073_DTXSID50335697,DTXSID50335697,Ethyl perfluoropentanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,292.0970
+074_DTXSID3032620,DTXSID3032620,Hexaflumuron,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)F)c(Cl)c1,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)F)c(Cl)c1,461.1450
+075_DTXSID90626970,DTXSID90626970,3H-Perfluorobutanoic acid,O=C(O)C(F)(F)C(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)C(F)(F)F,196.0460
+076_DTXSID70880159,DTXSID70880159,(E)-Perfluoro(4-methyl-2-pentene),F/C(=C(/F)C(F)(C(F)(F)F)C(F)(F)F)C(F)(F)F,F/C(=C(/F)C(F)(C(F)(F)F)C(F)(F)F)C(F)(F)F,300.0420
+077_DTXSID4059881,DTXSID4059881,Methyl perfluorobutanoate,COC(=O)C(F)(F)C(F)(F)C(F)(F)F,COC(=O)C(F)(F)C(F)(F)C(F)(F)F,228.0630
+078_DTXSID5027140,DTXSID5027140,Perfluorooctanesulfonyl fluoride,O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,502.1170
+079_DTXSID50397558,DTXSID50397558,3-(Perfluoroisopropyl)-(2E)-difluoropropenoic acid,O=C(O)/C(F)=C(\F)C(F)(C(F)(F)F)C(F)(F)F,O=C([O-])/C(F)=C(\F)C(F)(C(F)(F)F)C(F)(F)F,276.0540
+080_DTXSID30190948,DTXSID30190948,"Perfluoro-1,4-diiodobutane",FC(F)(I)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(I)C(F)(F)C(F)(F)C(F)(F)I,453.8360
+081_DTXSID60195123,DTXSID60195123,Perfluorooctanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,413.0800
+082_DTXSID00871631,DTXSID00871631,Perfluoromethyldecalin,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C(F)(F)C2(F)C1C(F)(F)C(F)(F)C(F)(F)C2(F)F,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C(F)(F)C2(F)C1C(F)(F)C(F)(F)C(F)(F)C2(F)F,515.1050
+083_DTXSID50226894,DTXSID50226894,9H-Perfluorononanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,446.0810
+084_DTXSID1061073,DTXSID1061073,Heptafluoropropyl iodide,FC(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)I,295.9230
+085_DTXSID80371164,DTXSID80371164,"1H,1H-Perfluoro-2,5-dimethyl-3,6-dioxanonan-1-ol",OCC(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,OCC(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,482.0860
+086_DTXSID00382171,DTXSID00382171,2(Perfluoro-2-propyl)ethanol,OCCC(F)(C(F)(F)F)C(F)(F)F,OCCC(F)(C(F)(F)F)C(F)(F)F,214.0800
+087_DTXSID20440585,DTXSID20440585,1-(Perfluorohexyl)octane,CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,432.2640
+088_DTXSID20874028,DTXSID20874028,"2H,2H,3H,3H-Perfluorooctanoic acid",O=C(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,342.1040
+089_DTXSID80871634,DTXSID80871634,1H-Perfluoroheptane,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,370.0550
+090_DTXSID50371191,DTXSID50371191,"2,2-Bis(trifluoromethyl)propionyl fluoride",CC(C(=O)F)(C(F)(F)F)C(F)(F)F,CC(C(=O)F)(C(F)(F)F)C(F)(F)F,212.0640
+091_DTXSID8037708,DTXSID8037708,Ammonium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+],O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+],431.0950
+092_DTXSID8037706,DTXSID8037706,Potassium perfluorooctanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],538.2160
+093_DTXSID60510796,DTXSID60510796,"2,2,3,3-Tetrafluoropropyl ether",FC(F)C(F)(F)COCC(F)(F)C(F)F,FC(F)C(F)(F)COCC(F)(F)C(F)F,246.0970
+094_DTXSID20179883,DTXSID20179883,2-(Perfluorohexyl)ethylphosphonic acid,O=P(O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=P(O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,428.0810
+095_DTXSID70193675,DTXSID70193675,"2,2,2-Trifluoro-N-(2,2,2-trifluoroethyl)acetamide",O=C(NCC(F)(F)F)C(F)(F)F,O=C(NCC(F)(F)F)C(F)(F)F,195.0620
+096_DTXSID70191136,DTXSID70191136,Perfluoro-3-methoxypropanoic acid,O=C(O)C(F)(F)C(F)(F)OC(F)(F)F,O=C([O-])C(F)(F)C(F)(F)OC(F)(F)F,230.0350
+097_DTXSID80379781,DTXSID80379781,Perfluorocyclohexanecarbonyl fluoride,O=C(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,O=C(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,328.0520
+098_DTXSID90583413,DTXSID90583413,4-((Perfluorohexyl)ethyl)phenylmethanol,OCc1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,OCc1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,454.2260
+099_DTXSID10379254,DTXSID10379254,"1H,1H-Heptafluorobutyl epoxide",FC(F)(F)C(F)(F)C(F)(F)CC1CO1,FC(F)(F)C(F)(F)C(F)(F)CC1CO1,226.0910
+100_DTXSID40187142,DTXSID40187142,Pentadecafluorooctanoyl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,432.5100
+101_DTXSID70870515,DTXSID70870515,Pentafluoropropanoic anhydride,O=C(OC(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,O=C(OC(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,310.0430
+102_DTXSID9059834,DTXSID9059834,Perfluamine,FC(F)(F)C(F)(F)C(F)(F)N(C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)N(C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,521.0640
+103_DTXSID6047575,DTXSID6047575,(Perfluorobutyl)ethene,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,246.0720
+104_DTXSID9059832,DTXSID9059832,"1H,1H,7H-Dodecafluoro-1-heptanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,332.0840
+105_DTXSID1075222,DTXSID1075222,Perfluorodimethylcyclobutane,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C1C(F)(F)F,*C(F)(F)F.*F.*F.FC1C(F)C(F)(F)C1C(F)(F)F,303.0660
+106_DTXSID50380243,DTXSID50380243,"2,2,3,3-Tetrafluoropropyl trifluoroacetate",O=C(OCC(F)(F)C(F)F)C(F)(F)F,O=C(OCC(F)(F)C(F)F)C(F)(F)F,228.0630
+107_DTXSID70880215,DTXSID70880215,Perfluoro-2-methyl-3-oxahexanoic acid,O=C(O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,O=C([O-])C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,330.0490
+108_DTXSID30458858,DTXSID30458858,"Cyclohexafluoropropane-1,3-bis(sulfonyl)imide",O=S1(=O)NS(=O)(=O)C(F)(F)C(F)(F)C1(F)F,O=S1(=O)NS(=O)(=O)C(F)(F)C(F)(F)C1(F)F,293.1660
+109_DTXSID20379427,DTXSID20379427,2-Iodoperfluorobutane,FC(F)(F)C(F)(F)C(F)(I)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(I)C(F)(F)F,345.9300
+110_DTXSID70880210,DTXSID70880210,"Perfluoro-3,6-dimethyl-1,4-dioxan-2-one",O=C1OC(F)(C(F)(F)F)C(F)(F)OC1(F)C(F)(F)F,O=C1OC(F)(C(F)(F)F)C(F)(F)OC1(F)C(F)(F)F,310.0430
+111_DTXSID60370610,DTXSID60370610,Trifluoroacetyl triflate,O=C(OS(=O)(=O)C(F)(F)F)C(F)(F)F,O=C(OS(=O)(=O)C(F)(F)F)C(F)(F)F,246.0840
+112_DTXSID60197405,DTXSID60197405,(Perfluorohexyl)methyl methacrylate,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,418.1490
+113_DTXSID80187141,DTXSID80187141,Perfluorohexylbromide,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,398.9440
+114_DTXSID90659945,DTXSID90659945,Ethyl perfluoropentanyl ketone,CCC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,326.1050
+115_DTXSID70379255,DTXSID70379255,"1H,1H-Heptafluorobutyl triflate",O=S(=O)(OCC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,O=S(=O)(OCC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,332.1150
+116_DTXSID70537191,DTXSID70537191,Methyl 3H-perfluoroisopropyl ether,COC(F)(C(F)F)C(F)(F)F,COC(F)(C(F)F)C(F)(F)F,182.0630
+117_DTXSID70464615,DTXSID70464615,"4-(1H,1H,2H,2H-Perfluorodecylthio)phenol",Oc1ccc(SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,Oc1ccc(SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,572.2800
+118_DTXSID7061982,DTXSID7061982,Perfluoromethylcyclopentane,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,300.0420
+119_DTXSID9059969,DTXSID9059969,"1H-Perfluoro-1,1-propanediol",OC(O)C(F)(F)C(F)(F)F,OC(O)C(F)(F)C(F)(F)F,166.0450
+120_DTXSID8059970,DTXSID8059970,Perfluoropropanoic acid,O=C(O)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)F,164.0290
+121_DTXSID40337468,DTXSID40337468,"1,1,2,2-Tetrafluoro-3-iodopropane",FC(F)C(F)(F)CI,FC(F)C(F)(F)CI,241.9530
+122_DTXSID10193674,DTXSID10193674,Perfluorodiacetamide,O=C(NC(=O)C(F)(F)F)C(F)(F)F,O=C(NC(=O)C(F)(F)F)C(F)(F)F,209.0450
+123_DTXSID8059974,DTXSID8059974,Perfluorodecyl iodide,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,645.9720
+124_DTXSID70184725,DTXSID70184725,Perflubrodec,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,598.9720
+125_DTXSID30869884,DTXSID30869884,"2H,3H-Perfluoropentane",FC(C(F)C(F)(F)C(F)(F)F)C(F)(F)F,FC(C(F)C(F)(F)C(F)(F)F)C(F)(F)F,252.0510
+126_DTXSID8059978,DTXSID8059978,"1H,1H-Perfluorobutyl acrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)F,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)F,254.1010
+127_DTXSID7027831,DTXSID7027831,N-Methyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,557.2220
+128_DTXSID9066388,DTXSID9066388,"1,4-Dibromo-1,1,2,2-tetrafluorobutane",FC(F)(Br)C(F)(F)CCBr,FC(F)(Br)C(F)(F)CCBr,287.8760
+129_DTXSID10171538,DTXSID10171538,"1H,1H,9H-perfluorononyl methacrylate",C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,500.1730
+130_DTXSID90315130,DTXSID90315130,Perfluoro-1-octanesulfonyl chloride,O=S(=O)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,518.5720
+131_DTXSID90190949,DTXSID90190949,"1,6-Diiodoperfluorohexane",FC(F)(I)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(I)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,553.8500
+132_DTXSID90558000,DTXSID90558000,6:2 Fluorotelomer phosphate monoester,O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,444.0800
+133_DTXSID30880413,DTXSID30880413,"3-(Perfluorohexyl)-1,2-epoxypropane",FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC1CO1,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC1CO1,376.1120
+134_DTXSID30340244,DTXSID30340244,"1H,1H,7H-Perfluoroheptyl 4-methylbenzenesulfonate",Cc1ccc(S(=O)(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)cc1,Cc1ccc(S(=O)(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)cc1,486.2740
+135_DTXSID60184456,DTXSID60184456,Ethyl perfluorononanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,492.1250
+136_DTXSID70880230,DTXSID70880230,"((2,2,3,3-Tetrafluoropropoxy)methyl)oxirane",FC(F)C(F)(F)COCC1CO1,FC(F)C(F)(F)COCC1CO1,188.1200
+137_DTXSID5062849,DTXSID5062849,Ethyl perfluorooctanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,442.1180
+138_DTXSID7047566,DTXSID7047566,Perfluoro-1-iodohexane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,445.9440
+139_DTXSID20382618,DTXSID20382618,"2-Iodo-1h,1h,2h,3h,3h-perfluorodecan-1-ol",OCC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,554.0310
+140_DTXSID50229163,DTXSID50229163,Trichloro((perfluorohexyl)ethyl)silane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC[Si](Cl)(Cl)Cl,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC[Si](Cl)(Cl)Cl,481.5390
+141_DTXSID00223797,DTXSID00223797,Dichloromethyl((perfluorohexyl)ethyl)silane,C[Si](Cl)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C[Si](Cl)(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,461.1210
+142_DTXSID5059799,DTXSID5059799,"1H,1H-Perfluorooctyl acrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,454.1290
+143_DTXSID70400078,DTXSID70400078,(Heptafluoropropyl)trimethylsilane,C[Si](C)(C)C(F)(F)C(F)(F)C(F)(F)F,C[Si](C)(C)C(F)(F)C(F)(F)C(F)(F)F,242.2100
+144_DTXSID7029904,DTXSID7029904,Fluorotelomer alcohol 8:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,464.1150
+145_DTXSID00880026,DTXSID00880026,Potassium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],452.1540
+146_DTXSID3031864,DTXSID3031864,Perfluorooctanesulfonic acid,O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,500.1260
+147_DTXSID1062122,DTXSID1062122,Fluorotelomer alcohol 4:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,264.0870
+148_DTXSID60382617,DTXSID60382617,"3-(2,2,3,3-Tetrafluoropropoxy)prop-1-ene",C=CCOCC(F)(F)C(F)F,C=CCOCC(F)(F)C(F)F,172.1210
+149_DTXSID00620545,DTXSID00620545,"N,N-dimethyl-2H-perfluoroethanamine",CN(C)C(F)(F)C(F)F,CN(C)C(F)(F)C(F)F,145.0990
+150_DTXSID3031860,DTXSID3031860,Perfluorodecanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,514.0780
+151_DTXSID20335700,DTXSID20335700,Methyl perfluorohexanoate,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,328.0770
+152_DTXSID3031862,DTXSID3031862,Perfluorohexanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,314.0500
+153_DTXSID60591585,DTXSID60591585,"Methyl 2H,2H-perfluorobutyl ether",COCC(F)(F)C(F)(F)C(F)(F)F,COCC(F)(F)C(F)(F)C(F)(F)F,214.0800
+154_DTXSID5059793,DTXSID5059793,7:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,400.0810
+155_DTXSID1073365,DTXSID1073365,"2,2,2-Trifluoroethyl triflate",O=S(=O)(OCC(F)(F)F)C(F)(F)F,O=S(=O)(OCC(F)(F)F)C(F)(F)F,232.1010
+156_DTXSID80880403,DTXSID80880403,"1H,1H,3H-Perfluorobutyl 2-methylacrylate",C=C(C)C(=O)OCC(F)(F)C(F)C(F)(F)F,C=C(C)C(=O)OCC(F)(F)C(F)C(F)(F)F,250.1380
+157_DTXSID80445177,DTXSID80445177,3-(Perfluorobutyl)propanoic acid,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,292.0970
+158_DTXSID30379857,DTXSID30379857,(Perfluoro-n-hexyl)ethane,CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,348.1020
+159_DTXSID8047553,DTXSID8047553,Perfluoroundecanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,564.0850
+160_DTXSID8061979,DTXSID8061979,"1H,1H,2H,2H-Perfluorohexyl methacrylate",C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,332.1620
+161_DTXSID90275806,DTXSID90275806,3H-Perfluoro-4-hydroxy-3-penten-2-one,O=C(C=C(O)C(F)(F)F)C(F)(F)F,O=C(C=C(O)C(F)(F)F)C(F)(F)F,208.0570
+162_DTXSID30380842,DTXSID30380842,Difluoromethyl 2H-perfluoropropyl ether,FC(F)OC(F)(F)C(F)C(F)(F)F,FC(F)OC(F)(F)C(F)C(F)(F)F,218.0430
+163_DTXSID8068250,DTXSID8068250,2:2 Fluorotelomer iodide,FC(F)(F)C(F)(F)CCI,FC(F)(F)C(F)(F)CCI,273.9700
+164_DTXSID4074855,DTXSID4074855,Perfluorobis(isopropyl) ketone,O=C(C(F)(C(F)(F)F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,O=C(C(F)(C(F)(F)F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,366.0480
+165_DTXSID40583342,DTXSID40583342,4-[3-(Perfluorobutyl)-1-propyloxy]benzyl alcohol,OCc1ccc(OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,OCc1ccc(OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1,384.2380
+166_DTXSID70880412,DTXSID70880412,1-(Perfluorohexyl)-2-iodopropane,CC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,488.0250
+167_DTXSID20695972,DTXSID20695972,Ethyl 2H-perfluoropropyl ether,CCOC(F)(F)C(F)C(F)(F)F,CCOC(F)(F)C(F)C(F)(F)F,196.0900
+168_DTXSID60862823,DTXSID60862823,Perfluoro(2-methyl-3-oxahexanoyl) fluoride,O=C(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,O=C(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,332.0400
+169_DTXSID90872298,DTXSID90872298,Perfluorodecane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,538.0660
+170_DTXSID7074616,DTXSID7074616,"1H,1H,2H-Perfluoro-1-decene",C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,446.1000
+171_DTXSID70565479,DTXSID70565479,8H-Perfluorooctanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,396.0740
+172_DTXSID9060990,DTXSID9060990,"N,O-Bis(trifluoroacetyl)hydroxylamine",O=C(NOC(=O)C(F)(F)F)C(F)(F)F,O=C(NOC(=O)C(F)(F)F)C(F)(F)F,225.0440
+173_DTXSID30395037,DTXSID30395037,tris(Trifluoroethoxy)methane,FC(F)(F)COC(OCC(F)(F)F)OCC(F)(F)F,FC(F)(F)COC(OCC(F)(F)F)OCC(F)(F)F,310.1120
+174_DTXSID50218052,DTXSID50218052,Perfluoroglutaryl difluoride,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(=O)F,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(=O)F,244.0370
+175_DTXSID30378880,DTXSID30378880,"2,2-Difluoroethyl triflate",O=S(=O)(OCC(F)F)C(F)(F)F,O=S(=O)(OCC(F)F)C(F)(F)F,214.1110
+176_DTXSID60380219,DTXSID60380219,"(2H-Perfluoroethyl)(1H,1H,3H-perfluoropropyl)ether",FC(F)C(F)(F)COC(F)(F)C(F)F,FC(F)C(F)(F)COC(F)(F)C(F)F,232.0700
+177_DTXSID9059884,DTXSID9059884,"1H,1H-Perfluoropropyl acrylate",C=CC(=O)OCC(F)(F)C(F)(F)F,C=CC(=O)OCC(F)(F)C(F)(F)F,204.0940
+178_DTXSID9059882,DTXSID9059882,Ethyl perfluorobutanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)F,242.0900
+179_DTXSID7060332,DTXSID7060332,(Perfluorobutyryl)-2-thenoylmethane,O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)c1cccs1,O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)c1cccs1,322.2010
+180_DTXSID50371479,DTXSID50371479,1-Chloro-6-iodoperfluorohexane,FC(F)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,462.3990
+181_DTXSID50583510,DTXSID50583510,"(1S,4S)-3-(Heptafluorobutyryl)camphor",CC1(C)[C@H]2CC[C@]1(C)C(=O)C2C(=O)C(F)(F)C(F)(F)C(F)(F)F,CC1(C)[C@H]2CC[C@]1(C)C(=O)C2C(=O)C(F)(F)C(F)(F)C(F)(F)F,348.2580
+182_DTXSID60880143,DTXSID60880143,"1,2-Dibromohexafluoropropane",FC(F)(F)C(F)(Br)C(F)(F)Br,FC(F)(F)C(F)(Br)C(F)(F)Br,309.8290
+183_DTXSID40392097,DTXSID40392097,[(Heptafluoropropyl)sulfanyl]acetic acid,O=C(O)CSC(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CSC(F)(F)C(F)(F)C(F)(F)F,260.1300
+184_DTXSID60880148,DTXSID60880148,3:2 Fluorotelomer iodide,FC(F)(F)C(F)(F)C(F)(F)CCI,FC(F)(F)C(F)(F)C(F)(F)CCI,323.9770
+185_DTXSID10379355,DTXSID10379355,3-(Perfluoro-2-butyl)propanoic acid,O=C(O)CCC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,292.0970
+186_DTXSID60500450,DTXSID60500450,Perfluoro(4-methoxybutanoic acid),O=C(O)C(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,280.0420
+187_DTXSID80379721,DTXSID80379721,"1H,1H,6H,6H-Perfluorohexane-1,6-diol diacrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)COC(=O)C=C,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)COC(=O)C=C,370.1920
+188_DTXSID10335698,DTXSID10335698,Methyl perfluoropentanoate,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,278.0700
+189_DTXSID70334445,DTXSID70334445,"Perfluoro-2,3-dimethylbutane",FC(F)(F)C(F)(C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,FC(F)(F)C(F)(C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,338.0380
+190_DTXSID50880192,DTXSID50880192,"2H-Perfluoro-5-methyl-3,6-dioxanonane",FC(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,FC(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,452.0600
+191_DTXSID6027426,DTXSID6027426,N-Ethyl-N-(2-hydroxyethyl)perfluorooctane sulfonamide,CCN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,571.2490
+192_DTXSID30622698,DTXSID30622698,2H-Perfluoroisopropyl 2-fluoroacrylate,C=C(F)C(=O)OC(C(F)(F)F)C(F)(F)F,C=C(F)C(=O)OC(C(F)(F)F)C(F)(F)F,240.0740
+193_DTXSID30235040,DTXSID30235040,Perfluoro(2-bromoethyl vinyl ether),FC(F)=C(F)OC(F)(F)C(F)(F)Br,FC(F)=C(F)OC(F)(F)C(F)(F)Br,276.9330
+194_DTXSID20379765,DTXSID20379765,"Methyl 1H,1H-perfluoropropyl ether",COCC(F)(F)C(F)(F)F,COCC(F)(F)C(F)(F)F,164.0730
+195_DTXSID20861913,DTXSID20861913,Perfluorobutanesulfonyl fluoride,O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,302.0890
+196_DTXSID20170895,DTXSID20170895,"1,6-Divinylperfluorohexane",C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,354.1340
+197_DTXSID80380837,DTXSID80380837,"Perfluoro-3,6,9-trioxadecanoic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,412.0540
+198_DTXSID80597206,DTXSID80597206,"1H,1H,1H,2H-Perfluoro-2-heptanol",CC(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CC(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,314.0940
+199_DTXSID20870500,DTXSID20870500,"Perfluoro-1,2-dimethylcyclohexane",FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)C(F)(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)C(F)(F)F,400.0560
+200_DTXSID20371926,DTXSID20371926,Ethyl 5H-octafluoropentanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,274.1070
+201_DTXSID00880187,DTXSID00880187,"3,5,7,8-Tetrachloroperfluorooctanoic acid",O=C(O)C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)Cl,O=C([O-])C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)Cl,479.8840
+202_DTXSID00188998,DTXSID00188998,Perfluorohept-1-ene,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,350.0490
+203_DTXSID10861881,DTXSID10861881,Perfluorobutanoic anhydride,O=C(OC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,O=C(OC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,410.0570
+204_DTXSID00188993,DTXSID00188993,Methyl heptafluoropropylketone,CC(=O)C(F)(F)C(F)(F)C(F)(F)F,CC(=O)C(F)(F)C(F)(F)C(F)(F)F,212.0640
+205_DTXSID00190950,DTXSID00190950,6:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,350.0740
+206_DTXSID10379774,DTXSID10379774,Perfluorononanedioic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-],440.0830
+207_DTXSID70347030,DTXSID70347030,"5H,5H-Perfluoro-4,6-nonanedione",O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,408.0850
+208_DTXSID40188992,DTXSID40188992,Perfluoroisohexane,FC(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,338.0380
+209_DTXSID80184039,DTXSID80184039,(6H-Perfluorohexyl)methyl acrylate,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,386.1320
+210_DTXSID80188996,DTXSID80188996,Perfluorohexylchloride,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,354.4930
+211_DTXSID9075240,DTXSID9075240,"3H,3H-Perfluoro-2-butanone",O=C(CC(F)(F)F)C(F)(F)F,O=C(CC(F)(F)F)C(F)(F)F,180.0470
+212_DTXSID90880176,DTXSID90880176,"3,5,6-Trichloroperfluorohexanoic acid",O=C(O)C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)Cl,O=C([O-])C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)Cl,363.4150
+213_DTXSID40320072,DTXSID40320072,Trifluoromethyl trifluoromethanesulfonate,O=S(=O)(OC(F)(F)F)C(F)(F)F,O=S(=O)(OC(F)(F)F)C(F)(F)F,218.0740
+214_DTXSID20375106,DTXSID20375106,"Perfluoro-3,6-dioxaoctane-1,8-dioic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(=O)O,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(=O)[O-],322.0600
+215_DTXSID9041578,DTXSID9041578,Trifluoroacetic acid,O=C(O)C(F)(F)F,O=C([O-])C(F)(F)F,114.0220
+216_DTXSID20379947,DTXSID20379947,2-(Perfluorohexyl)ethanethiol,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,380.1690
+217_DTXSID00379268,DTXSID00379268,3:3 Fluorotelomer carboxylic acid,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)F,242.0900
+218_DTXSID50379773,DTXSID50379773,Pentafluoroallyl fluorosulfate,O=S(=O)(F)OC(F)(F)C(F)=C(F)F,O=S(=O)(F)OC(F)(F)C(F)=C(F)F,230.0850
+219_DTXSID60379941,DTXSID60379941,"1H,8H-Perfluorooctane",FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,402.0720
+220_DTXSID40380257,DTXSID40380257,3-(Perfluoroisopropyl)-2-propenoic acid,O=C(O)C=CC(F)(C(F)(F)F)C(F)(F)F,O=C([O-])C=CC(F)(C(F)(F)F)C(F)(F)F,240.0740
+221_DTXSID90180087,DTXSID90180087,(Perfluoroheptyl)ethene,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,396.0930
+222_DTXSID80380256,DTXSID80380256,"4,4-bis(Trifluoromethyl)-4-fluoropropanoic acid",O=C(O)CCC(F)(C(F)(F)F)C(F)(F)F,O=C([O-])CCC(F)(C(F)(F)F)C(F)(F)F,242.0900
+223_DTXSID90868151,DTXSID90868151,Perfluorotridecanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,664.0990
+224_DTXSID80590878,DTXSID80590878,Perfluorohexanal,O=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,298.0510
+225_DTXSID0059829,DTXSID0059829,Perfluorooctanoyl fluoride,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,416.0550
+226_DTXSID5067348,DTXSID5067348,2-(Perfluorooctyl)ethyl acrylate,C=CC(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=CC(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,518.1630
+227_DTXSID50379556,DTXSID50379556,Methyl 5H-perfluoropentanoate,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,COC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,260.0800
+228_DTXSID50469320,DTXSID50469320,Perfluorohexanesulfonamide,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,399.1280
+229_DTXSID80108992,DTXSID80108992,Perfluorooctanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,499.1180
+230_DTXSID60892443,DTXSID60892443,Sodium perfluorodecanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],622.1220
+231_DTXSID10370988,DTXSID10370988,Allyl perfluoroisopropyl ether,C=CCOC(F)(C(F)(F)F)C(F)(F)F,C=CCOC(F)(C(F)(F)F)C(F)(F)F,226.0910
+232_DTXSID00195026,DTXSID00195026,"1H,1H-Perfluoropropylamine",NCC(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)F,149.0620
+233_DTXSID70177132,DTXSID70177132,"1H,1H,7H-Perfluoroheptyl methacrylate",C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,400.1590
+234_DTXSID90880156,DTXSID90880156,"1-Iodo-1H,1H,2H,2H-perfluorononane",FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCI,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCI,524.0050
+235_DTXSID10880178,DTXSID10880178,Hexafluoroisopropyl acrylate,C=CC(=O)OC(C(F)(F)F)C(F)(F)F,C=CC(=O)OC(C(F)(F)F)C(F)(F)F,222.0840
+236_DTXSID00369341,DTXSID00369341,"2,2-bis(Trifluoromethyl)-2-hydroxyacetic acid",O=C(O)C(O)(C(F)(F)F)C(F)(F)F,O=C([O-])C(O)(C(F)(F)F)C(F)(F)F,212.0450
+237_DTXSID70381151,DTXSID70381151,Perfluorooctanamidine,N=C(N)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,N=C(N)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,412.0960
+238_DTXSID50381992,DTXSID50381992,"Bis(1H,1H-perfluoropropyl)amine",FC(F)(F)C(F)(F)CNCC(F)(F)C(F)(F)F,FC(F)(F)C(F)(F)CNCC(F)(F)C(F)(F)F,281.0930
+239_DTXSID30182964,DTXSID30182964,(Perfluorocyclohexyl)methanol,OCC1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,OCC1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,312.0780
+240_DTXSID80371528,DTXSID80371528,2-Chloro(perfluoro-2-methylpentane),FC(F)(F)C(F)(F)C(F)(F)C(Cl)(C(F)(F)F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)C(Cl)(C(F)(F)F)C(F)(F)F,354.4930
+241_DTXSID50881008,DTXSID50881008,(2H-Perfluoroethoxy)methyloxirane,FC(F)C(F)(F)OCC1CO1,FC(F)C(F)(F)OCC1CO1,174.0930
+242_DTXSID7059933,DTXSID7059933,Perfluoro(N-methylmorpholine),FC(F)(F)N1C(F)(F)C(F)(F)OC(F)(F)C1(F)F,FC(F)(F)N1C(F)(F)C(F)(F)OC(F)(F)C1(F)F,299.0390
+243_DTXSID80562292,DTXSID80562292,Perfluorobutanol,OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,236.0330
+244_DTXSID60871632,DTXSID60871632,Perfluoro-2-butyltetrahydrofuran,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)OC(F)(F)C(F)(F)C1(F)F,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)OC(F)(F)C(F)(F)C1(F)F,416.0550
+245_DTXSID5060936,DTXSID5060936,1-Iodoperfluoropentane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,395.9370
+246_DTXSID0036926,DTXSID0036926,"Perfluoro-1,3-dimethylcyclohexane",FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C1(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C1(F)F,400.0560
+247_DTXSID50369896,DTXSID50369896,"1H,1H,10H,10H-Perfluorodecane-1,10-diol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,462.1240
+248_DTXSID8051419,DTXSID8051419,"N-[(Perfluorooctylsulfonamido)propyl]-N,N,N-trimethylammonium iodide",C[N+](C)(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[I-],C[N+](C)(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[I-],726.2310
+249_DTXSID8074659,DTXSID8074659,Decafluorocyclohexene,FC1=C(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,FC1=C(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,262.0460
+250_DTXSID10379850,DTXSID10379850,6H-Perfluorohex-1-ene,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,282.0520
+251_DTXSID20396477,DTXSID20396477,"1H,1H,3H-Perfluoropropyl triflate",O=S(=O)(OCC(F)(F)C(F)F)C(F)(F)F,O=S(=O)(OCC(F)(F)C(F)F)C(F)(F)F,264.1180
+252_DTXSID50379576,DTXSID50379576,Methyl tetrafluoro-2-(trifluoromethyl)propionate,COC(=O)C(F)(C(F)(F)F)C(F)(F)F,COC(=O)C(F)(C(F)(F)F)C(F)(F)F,228.0630
+253_DTXSID50382621,DTXSID50382621,7:3 Fluorotelomer alcohol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,428.1350
+254_DTXSID4073120,DTXSID4073120,Perfluorobutyl methyl ether,COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,250.0600
+255_DTXSID00312357,DTXSID00312357,"Bis(2,2,2-trifluoroethyl)sulfite",O=S(OCC(F)(F)F)OCC(F)(F)F,O=S(OCC(F)(F)F)OCC(F)(F)F,246.1280
+256_DTXSID1037303,DTXSID1037303,Perfluoroheptanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,364.0570
+257_DTXSID9059915,DTXSID9059915,Heptafluorobutyryl Chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)F,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)F,232.4820
+258_DTXSID30382063,DTXSID30382063,"Perfluoro-3,6-dioxaheptanoic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,296.0410
+259_DTXSID50880495,DTXSID50880495,2H-Hexafluoropropyl allyl ether,C=CCOC(F)(F)C(F)C(F)(F)F,C=CCOC(F)(F)C(F)C(F)(F)F,208.1010
+260_DTXSID70379295,DTXSID70379295,"3H-Perfluoro-2,2,4,4-tetrahydroxypentane",OC(O)(C(F)C(O)(O)C(F)(F)F)C(F)(F)F,OC(O)(C(F)C(O)(O)C(F)(F)F)C(F)(F)F,262.0770
+261_DTXSID9059919,DTXSID9059919,1-Bromopentadecafluoroheptane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,448.9510
+262_DTXSID20880129,DTXSID20880129,"1H,1H-Perfluoro-1-pentanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,250.0600
+263_DTXSID40381269,DTXSID40381269,3-(Perfluorobutyl)-1-propanol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,278.1140
+264_DTXSID40382115,DTXSID40382115,Methyl 3-chloroperfluoropropanoate,COC(=O)C(F)(F)C(F)(F)Cl,COC(=O)C(F)(F)C(F)(F)Cl,194.5110
+265_DTXSID20881338,DTXSID20881338,3-Methoxyperfluoro(2-methylpentane),COC(F)(C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,COC(F)(C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,350.0740
+266_DTXSID5073901,DTXSID5073901,"1,1,1,3,3-Pentafluorobutane",CC(F)(F)CC(F)(F)F,CC(F)(F)CC(F)(F)F,148.0740
+267_DTXSID70869964,DTXSID70869964,3-(Perfluoroethyl)propanol,OCCCC(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)F,178.1000
+268_DTXSID20880124,DTXSID20880124,"N,N-Diethyl-2H-perfluoropropanamine",CCN(CC)C(F)(F)C(F)C(F)(F)F,CCN(CC)C(F)(F)C(F)C(F)(F)F,223.1600
+269_DTXSID3068465,DTXSID3068465,"1H,1H-Perfluoropropyl methacrylate",C=C(C)C(=O)OCC(F)(F)C(F)(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)F,218.1210
+270_DTXSID80389027,DTXSID80389027,N-Methylperfluoroheptanamide,CNC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CNC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,377.1000
+271_DTXSID2044630,DTXSID2044630,Hexafluoropropene oxide trimer,O=C(F)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,O=C(F)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F,498.0600
+272_DTXSID40883576,DTXSID40883576,Hexafluoro-2-methyl-2-propanol,CC(O)(C(F)(F)F)C(F)(F)F,CC(O)(C(F)(F)F)C(F)(F)F,182.0630
+273_DTXSID60663110,DTXSID60663110,Perfluoro-4-isopropoxybutanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)F,380.0560
+274_DTXSID3047558,DTXSID3047558,2-(Perfluorohexyl)ethyl methacrylate,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,432.1760
+275_DTXSID10379991,DTXSID10379991,3-(Perfluorooctyl)propanol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,478.1420
+276_DTXSID10547335,DTXSID10547335,Methyl 4H-perfluorobutyl ketone,CC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,CC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,244.0810
+277_DTXSID40337443,DTXSID40337443,3-(Perfluoroisopropyl)propanol,OCCCC(F)(C(F)(F)F)C(F)(F)F,OCCCC(F)(C(F)(F)F)C(F)(F)F,228.1070
+278_DTXSID60379880,DTXSID60379880,(Perfluoro-3-methylbutyl)-2-hydroxypropyl acrylate,C=CC(=O)OCC(O)CC(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,C=CC(=O)OCC(O)CC(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,398.1680
+279_DTXSID50379359,DTXSID50379359,2-Vinylperfluorobutane,C=CC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,C=CC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,246.0720
+280_DTXSID30382048,DTXSID30382048,"3-(Perfluoro-1-propyl)-1,2-propanediol",OCC(O)CC(F)(F)C(F)(F)C(F)(F)F,OCC(O)CC(F)(F)C(F)(F)C(F)(F)F,244.1060
+281_DTXSID30382169,DTXSID30382169,"2,3,3,3-Tetrafluoro-2-(perfluoropentoxy)propan-1-ol",OCC(F)(OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,OCC(F)(OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,416.0800
+282_DTXSID6061022,DTXSID6061022,Perfluorosuccinic anhydride,O=C1OC(=O)C(F)(F)C1(F)F,O=C1OC(=O)C(F)(F)C1(F)F,172.0330
+283_DTXSID40379282,DTXSID40379282,"3H-Perfluoropentane-2,4-dione",O=C(C(F)C(=O)C(F)(F)F)C(F)(F)F,O=C(C(F)C(=O)C(F)(F)F)C(F)(F)F,226.0470
+284_DTXSID40290781,DTXSID40290781,Perfluorobutyrylamidine,N=C(N)C(F)(F)C(F)(F)C(F)(F)F,N=C(N)C(F)(F)C(F)(F)C(F)(F)F,212.0680
+285_DTXSID6062599,DTXSID6062599,Perfluoropentanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,264.0430
+286_DTXSID5059874,DTXSID5059874,Perfluoromethylcyclohexane,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,350.0490
+287_DTXSID00380798,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,410.1070
+288_DTXSID5060982,DTXSID5060982,Heptafluoro-2-iodopropane,FC(F)(F)C(F)(I)C(F)(F)F,FC(F)(F)C(F)(I)C(F)(F)F,295.9230
+289_DTXSID70379270,DTXSID70379270,1-Propenylperfluoropropane,CC=CC(F)(F)C(F)(F)C(F)(F)F,CC=CC(F)(F)C(F)(F)C(F)(F)F,210.0920
+290_DTXSID90446276,DTXSID90446276,(Perfluorooctyl)propanoyl chloride,O=C(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(Cl)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,510.5710
+291_DTXSID5060986,DTXSID5060986,"1H,1H,5H,5H-Perfluoro-1,5-pentanediol diacrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)COC(=O)C=C,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)COC(=O)C=C,320.1850
+292_DTXSID5061954,DTXSID5061954,11-H-Perfluoroundecanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,546.0950
+293_DTXSID8074786,DTXSID8074786,"(1H,1H-Perfluoroethyl)(2H-perfluoroethyl)ether",FC(F)C(F)(F)OCC(F)(F)F,FC(F)C(F)(F)OCC(F)(F)F,200.0530
+294_DTXSID10461880,DTXSID10461880,"1H,2H-Hexafluorocyclopentene",FC1(F)C=CC(F)(F)C1(F)F,FC1(F)C=CC(F)(F)C1(F)F,176.0590
+295_DTXSID90448210,DTXSID90448210,2H-Perfluoro(2-methylpentane),FC(F)(F)C(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,320.0480
+296_DTXSID30891564,DTXSID30891564,4:2 Fluorotelomer sulfonic acid,O=S(=O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,328.1520
+297_DTXSID60381968,DTXSID60381968,2(2H-Perfluoro-2-propyl)acetic acid,O=C(O)CC(C(F)(F)F)C(F)(F)F,O=C([O-])CC(C(F)(F)F)C(F)(F)F,210.0730
+298_DTXSID60379769,DTXSID60379769,"3H,3H-Perfluoropropyl triflate",O=S(=O)(OCC(F)(F)C(F)(F)F)C(F)(F)F,O=S(=O)(OCC(F)(F)C(F)(F)F)C(F)(F)F,282.1080
+299_DTXSID00442840,DTXSID00442840,2-(Trifluoromethoxy)ethyl trifluoromethanesulfonate,O=S(=O)(OCCOC(F)(F)F)C(F)(F)F,O=S(=O)(OCCOC(F)(F)F)C(F)(F)F,262.1270
+300_DTXSID20880144,DTXSID20880144,Ethyl pentafluoropropionyl acetate,CCOC(=O)CC(=O)C(F)(F)C(F)(F)F,CCOC(=O)CC(=O)C(F)(F)C(F)(F)F,234.1200
+301_DTXSID5059870,DTXSID5059870,(Perfluoroethyl)methyl iodide,FC(F)(F)C(F)(F)CI,FC(F)(F)C(F)(F)CI,259.9430
+302_DTXSID7068556,DTXSID7068556,N-(3-(Dimethylamino)propyl) perfluorohexane sulfonamide,CN(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CN(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,484.2780
+303_DTXSID60238701,DTXSID60238701,Perfluoropinacol,OC(C(F)(F)F)(C(F)(F)F)C(O)(C(F)(F)F)C(F)(F)F,OC(C(F)(F)F)(C(F)(F)F)C(O)(C(F)(F)F)C(F)(F)F,334.0560
+304_DTXSID0047583,DTXSID0047583,Nonafluoro-1-iodobutane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)I,345.9300
+305_DTXSID1022134,DTXSID1022134,2H-Perfluoro-2-propanol,OC(C(F)(F)F)C(F)(F)F,OC(C(F)(F)F)C(F)(F)F,168.0360
+306_DTXSID50379814,DTXSID50379814,Perfluoro-2-ethoxyethanesulfonic acid,O=S(=O)(O)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,316.0970
+307_DTXSID90861920,DTXSID90861920,Trifluoroacetic anhydride,O=C(OC(=O)C(F)(F)F)C(F)(F)F,O=C(OC(=O)C(F)(F)F)C(F)(F)F,210.0290
+308_DTXSID50379930,DTXSID50379930,"1H,1H-Perfluorononylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,449.1040
+309_DTXSID40379782,DTXSID40379782,(Perfluorocyclohexyl)methyl prop-2-enoate,C=CC(=O)OCC1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,C=CC(=O)OCC1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,366.1260
+310_DTXSID80897718,DTXSID80897718,Perfluoroheptanes (branched and linear),,,0.0000
+311_DTXSID80329968,DTXSID80329968,"3H,3H-Perfluoroheptane-2,4-dione",O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,O=C(CC(=O)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,308.0710
+312_DTXSID40204489,DTXSID40204489,Perfluorooct-1-ene,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,400.0560
+313_DTXSID2059980,DTXSID2059980,Ethyl perfluoropropionate,CCOC(=O)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)F,192.0830
+314_DTXSID80157187,DTXSID80157187,Hexafluoroisopropyl methyl ether,COC(C(F)(F)F)C(F)(F)F,COC(C(F)(F)F)C(F)(F)F,182.0630
+315_DTXSID90870512,DTXSID90870512,"2,3-Dichlorooctafluorobutane",FC(F)(F)C(F)(Cl)C(F)(Cl)C(F)(F)F,FC(F)(F)C(F)(Cl)C(F)(Cl)C(F)(F)F,270.9340
+316_DTXSID50184728,DTXSID50184728,Perfluorodecanedioic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-],490.0900
+317_DTXSID90660157,DTXSID90660157,Perfluoro-tert-butyl isobutyrate,CC(C)C(=O)OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,CC(C)C(=O)OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,306.1240
+318_DTXSID00379546,DTXSID00379546,Methyl 4H-perfluorobutanoate,COC(=O)C(F)(F)C(F)(F)C(F)F,COC(=O)C(F)(F)C(F)(F)C(F)F,210.0730
+319_DTXSID50880213,DTXSID50880213,Methyl perfluoro(2-propoxypropanoate),COC(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,COC(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,344.0760
+320_DTXSID10190840,DTXSID10190840,"1H,1H-Heptafluorobutylamine",NCC(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)F,199.0690
+321_DTXSID50880218,DTXSID50880218,"1H,1H,2H-Perfluorocyclopentane",FC1CC(F)(F)C(F)(F)C1(F)F,FC1CC(F)(F)C(F)(F)C1(F)F,196.0650
+322_DTXSID40379666,DTXSID40379666,N-Methyl-N-trimethylsilylheptafluorobutyramide,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)[Si](C)(C)C,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)[Si](C)(C)C,299.2620
+323_DTXSID3037707,DTXSID3037707,Potassium perfluorobutanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],338.1880
+324_DTXSID30193676,DTXSID30193676,"2,2,2-Trifluoroethyl trifluoroacetate",O=C(OCC(F)(F)F)C(F)(F)F,O=C(OCC(F)(F)F)C(F)(F)F,196.0460
+325_DTXSID20337466,DTXSID20337466,5H-Perfluoropentanal,O=CC(F)(F)C(F)(F)C(F)(F)C(F)F,O=CC(F)(F)C(F)(F)C(F)(F)C(F)F,230.0540
+326_DTXSID30193671,DTXSID30193671,"Bis(2,2,2-trifluoroethyl)amine",FC(F)(F)CNCC(F)(F)F,FC(F)(F)CNCC(F)(F)F,181.0790
+327_DTXSID40381986,DTXSID40381986,2-Allyloxyperfluoroethanesulfonyl fluoride,C=CCOC(F)(F)C(F)(F)S(=O)(=O)F,C=CCOC(F)(F)C(F)(F)S(=O)(=O)F,240.1490
+328_DTXSID8062101,DTXSID8062101,2-(Perfluorooctyl)ethyl methacrylate,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,532.1900
+329_DTXSID0059794,DTXSID0059794,Perfluorooctane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,438.0520
+330_DTXSID0074059,DTXSID0074059,"Difluoromethyl 1H,1H-perfluoropropyl ether",FC(F)OCC(F)(F)C(F)(F)F,FC(F)OCC(F)(F)C(F)(F)F,200.0530
+331_DTXSID3044596,DTXSID3044596,"Perfluoro(4-methyl-3,6-dioxaoct-7-ene)sulfonyl fluoride",O=S(=O)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)OC(F)=C(F)F,O=S(=O)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)OC(F)=C(F)F,446.1120
+332_DTXSID80382154,DTXSID80382154,Perfluoroheptanoyl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,382.5030
+333_DTXSID80880160,DTXSID80880160,N-(Phenylmethyl)perfluorobutanamide,O=C(NCc1ccccc1)C(F)(F)C(F)(F)C(F)(F)F,O=C(NCc1ccccc1)C(F)(F)C(F)(F)C(F)(F)F,303.1770
+334_DTXSID20382158,DTXSID20382158,"1H,1H,5H-Perfluoropentyl-1,1,2,2-tetrafluoroethylether",FC(F)C(F)(F)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,FC(F)C(F)(F)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,332.0840
+335_DTXSID50184723,DTXSID50184723,"1H,1H-Perfluorooctylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,399.0970
+336_DTXSID8031863,DTXSID8031863,Perfluorononanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,464.0710
+337_DTXSID0059798,DTXSID0059798,"1H,1H,11H-Eicosafluoro-1-undecanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,532.1120
+338_DTXSID3037709,DTXSID3037709,Potassium perfluorohexanesulfonate,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],438.2020
+339_DTXSID60400587,DTXSID60400587,Nonafluoropentanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,263.0590
+340_DTXSID8031865,DTXSID8031865,Perfluorooctanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,414.0640
+341_DTXSID10379835,DTXSID10379835,"1H,1H-Perfluoroheptylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,349.0900
+342_DTXSID2044397,DTXSID2044397,Trifluoromethanesulfonic acid,O=S(=O)(O)C(F)(F)F,O=S(=O)([O-])C(F)(F)F,150.0770
+343_DTXSID10379719,DTXSID10379719,Perfluoroadipoyl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)Cl,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)Cl,326.9540
+344_DTXSID40880025,DTXSID40880025,Sodium perfluorooctanoate,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Na+],436.0460
+345_DTXSID40880388,DTXSID40880388,2-(Perfluorobutyl)ethanethiol,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,280.1550
+346_DTXSID80880145,DTXSID80880145,"1,4-Divinylperfluorobutane",C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,254.1200
+347_DTXSID5042326,DTXSID5042326,Perfluoroisobutyl methyl ether,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,250.0600
+348_DTXSID60394033,DTXSID60394033,"Tris(2,2,2-trifluoroethyl) borate",FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F,FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F,307.9050
+349_DTXSID1074915,DTXSID1074915,Triethoxy((perfluorohexyl)ethyl)silane,CCO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OCC)OCC,CCO[Si](CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OCC)OCC,510.3630
+350_DTXSID50375114,DTXSID50375114,"Perfluoro-3,6,9-trioxatridecanoic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,562.0750
+351_DTXSID60505420,DTXSID60505420,2H-Perfluoropropanoic anhydride,O=C(OC(=O)C(F)(F)C(F)F)C(F)(F)C(F)F,O=C(OC(=O)C(F)(F)C(F)F)C(F)(F)C(F)F,274.0630
+352_DTXSID30379357,DTXSID30379357,3(Perfluoro-2-butyl)propanol,OCCCC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,OCCCC(F)(C(F)(F)F)C(F)(F)C(F)(F)F,278.1140
+353_DTXSID2060965,DTXSID2060965,Heptafluorobutyramide,NC(=O)C(F)(F)C(F)(F)C(F)(F)F,NC(=O)C(F)(F)C(F)(F)C(F)(F)F,213.0520
+354_DTXSID4059833,DTXSID4059833,Perfluorohexanedioic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-],290.0620
+355_DTXSID70379917,DTXSID70379917,3-(Perfluorohexyl)propanoic acid,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,392.1110
+356_DTXSID90371317,DTXSID90371317,"5-Bromo-4,4,5,5-tetrafluoropentanoic acid",O=C(O)CCC(F)(F)C(F)(F)Br,O=C([O-])CCC(F)(F)C(F)(F)Br,252.9890
+357_DTXSID10190946,DTXSID10190946,Perfluorobutyraldehyde,O=CC(F)(F)C(F)(F)C(F)(F)F,O=CC(F)(F)C(F)(F)C(F)(F)F,198.0370
+358_DTXSID00380753,DTXSID00380753,Trimethylsilyl perfluorobutanesulfonate,C[Si](C)(C)OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C[Si](C)(C)OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,372.2810
+359_DTXSID30396867,DTXSID30396867,"1H,1H,8H,8H-Perfluorooctane-1,8-diol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,362.1100
+360_DTXSID90880555,DTXSID90880555,5-Iodoperfluoro-3-oxapentanesulfonyl fluoride,O=S(=O)(F)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)I,O=S(=O)(F)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)I,425.9940
+361_DTXSID60377826,DTXSID60377826,"1H,1H-Perfluoropentylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,249.0760
+362_DTXSID70292859,DTXSID70292859,2-(4H-Perfluorobutyl)-2-propanol,CC(C)(O)C(F)(F)C(F)(F)C(F)(F)C(F)F,CC(C)(O)C(F)(F)C(F)(F)C(F)(F)C(F)F,260.1240
+363_DTXSID3059971,DTXSID3059971,1-Bromoheptafluoropropane,FC(F)(F)C(F)(F)C(F)(F)Br,FC(F)(F)C(F)(F)C(F)(F)Br,248.9230
+364_DTXSID60377821,DTXSID60377821,4:4 Fluorotelomer alcohol,OCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,292.1410
+365_DTXSID00379884,DTXSID00379884,"3-(Perfluoro-3-methylbutyl)-1,2-epoxypropane",FC(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(F)CC1CO1,FC(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(F)CC1CO1,326.1050
+366_DTXSID20337446,DTXSID20337446,2-(Perfluorooctyl)ethanthiol,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,480.1830
+367_DTXSID3059977,DTXSID3059977,Diethyl perfluoroglutarate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(=O)OCC,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(=O)OCC,296.1630
+368_DTXSID20880189,DTXSID20880189,"Perfluoro-1,2-dimethylcyclobutane",FC(F)(F)C1(F)C(F)(F)C(F)(F)C1(F)C(F)(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(F)C1(F)C(F)(F)F,300.0420
+369_DTXSID4059966,DTXSID4059966,2:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)F,150.0460
+370_DTXSID50892417,DTXSID50892417,4H-Perfluorobutanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)F,196.0460
+371_DTXSID60381084,DTXSID60381084,"Perfluoro-3,6,9-trioxaundecane-1,11-dioic acid",O=C(O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(=O)O,O=C([O-])C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(=O)[O-],438.0730
+372_DTXSID00344572,DTXSID00344572,N-Methyl-bis-heptafluorobutyramide,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)C(=O)C(F)(F)C(F)(F)C(F)(F)F,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)C(=O)C(F)(F)C(F)(F)C(F)(F)F,423.1000
+373_DTXSID20165701,DTXSID20165701,"3,3-Bis(trifluoromethyl)-3-hydroxypropionic acid",O=C(O)CC(O)(C(F)(F)F)C(F)(F)F,O=C([O-])CC(O)(C(F)(F)F)C(F)(F)F,226.0720
+374_DTXSID3038939,DTXSID3038939,Perfluorooctanesulfonamide,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,499.1420
+375_DTXSID3066215,DTXSID3066215,(Heptafluorobutanoyl)pivaloylmethane,CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)C(F)(F)F,CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)C(F)(F)F,296.1820
+376_DTXSID5073292,DTXSID5073292,Nonafluoro-tert-butanol,OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,236.0330
+377_DTXSID50379859,DTXSID50379859,6-(Perfluorohexyl)hexanol,OCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,420.2090
+378_DTXSID5059828,DTXSID5059828,1-Iodopentadecafluoroheptane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,495.9510
+379_DTXSID8044969,DTXSID8044969,Methyl perfluoro(3-(1-ethenyloxypropan-2-yloxy)propanoate),COC(=O)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)OC(F)=C(F)F,COC(=O)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)OC(F)=C(F)F,422.0930
+380_DTXSID10224331,DTXSID10224331,"2,2,3,3-Tetrafluoropropyl acrylate",C=CC(=O)OCC(F)(F)C(F)F,C=CC(=O)OCC(F)(F)C(F)F,186.1040
+381_DTXSID5044572,DTXSID5044572,Fluorotelomer alcohol 6:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,364.1010
+382_DTXSID30382104,DTXSID30382104,9-Chloro-perfluorononanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,480.5260
+383_DTXSID3059927,DTXSID3059927,Hexafluoroamylene glycol,OCC(F)(F)C(F)(F)C(F)(F)CO,OCC(F)(F)C(F)(F)C(F)(F)CO,212.0890
+384_DTXSID3059921,DTXSID3059921,Perfluorotetradecanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,714.1060
+385_DTXSID5046516,DTXSID5046516,Flurothyl,FC(F)(F)COCC(F)(F)F,FC(F)(F)COCC(F)(F)F,182.0630
+386_DTXSID3059923,DTXSID3059923,"1H,1H,9H-Hexadecafluoro-1-nonanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,432.0980
+387_DTXSID7040150,DTXSID7040150,Perfluorohexanesulfonic acid,O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,400.1120
+388_DTXSID90880131,DTXSID90880131,"1H,1H,5H-Perfluoropentyl methacrylate",C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,300.1450
+389_DTXSID50620171,DTXSID50620171,"1H,1H-Perfluorohexylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,299.0830
+390_DTXSID5075230,DTXSID5075230,"1H,6H-Perfluorohexane",FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,302.0580
+391_DTXSID90382620,DTXSID90382620,3-(Perfluoroheptyl)propanoic acid,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,442.1180
+392_DTXSID90623282,DTXSID90623282,"1,1,2-Trifluoro-1-methoxy-2-(trifluoromethoxy)ethane",COC(F)(F)C(F)OC(F)(F)F,COC(F)(F)C(F)OC(F)(F)F,198.0620
+393_DTXSID90870315,DTXSID90870315,3-Ethoxyperfluoro(2-methylhexane),CCOC(F)(C(F)(F)C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,CCOC(F)(C(F)(F)C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,414.1080
+394_DTXSID70348047,DTXSID70348047,2-(2-Iodoethyl)perfluoropropane,FC(F)(F)C(F)(CCI)C(F)(F)F,FC(F)(F)C(F)(CCI)C(F)(F)F,323.9770
+395_DTXSID5075236,DTXSID5075236,"1H,1H,5H-Perfluoropentyl acrylate",C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,286.1180
+396_DTXSID00578936,DTXSID00578936,Methyl perfluoropentyl ketone,CC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,312.0780
+397_DTXSID0059879,DTXSID0059879,"1H,1H,5H-Perfluoropentanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)F,232.0700
+398_DTXSID70165670,DTXSID70165670,7H-Perfluoroheptanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,346.0670
+399_DTXSID70381090,DTXSID70381090,"1H,1H,8H,8H-Perfluoro-3,6-dioxaoctane-1,8-diol",OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,294.0940
+400_DTXSID50880415,DTXSID50880415,"3-(Perfluorooctyl)-1,2-propenoxide",FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC1CO1,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC1CO1,476.1260
+401_DTXSID0060985,DTXSID0060985,Hexafluoroglutaryl chloride,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(=O)Cl,O=C(Cl)C(F)(F)C(F)(F)C(F)(F)C(=O)Cl,276.9470
+402_DTXSID2059930,DTXSID2059930,Methyl pentafluoropropionate,COC(=O)C(F)(F)C(F)(F)F,COC(=O)C(F)(F)C(F)(F)F,178.0560
+403_DTXSID6068985,DTXSID6068985,Fluorotelomer alcohol 2:2,OCCC(F)(F)C(F)(F)F,OCCC(F)(F)C(F)(F)F,164.0730
+404_DTXSID50188165,DTXSID50188165,8:3 Fluorotelomer carboxylic acid,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,492.1250
+405_DTXSID60379901,DTXSID60379901,(Perfluoro-5-methylhexyl)ethyl 2-methylprop-2-enoate,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,482.1830
+406_DTXSID0059871,DTXSID0059871,Perfluoropropanamide,NC(=O)C(F)(F)C(F)(F)F,NC(=O)C(F)(F)C(F)(F)F,163.0450
+407_DTXSID80336475,DTXSID80336475,8:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,450.0880
+408_DTXSID80881157,DTXSID80881157,"1-(Perfluorofluorooctyl)propane-2,3-diol",OCC(O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,494.1410
+409_DTXSID0061826,DTXSID0061826,Perfluoropropyl trifluorovinyl ether,FC(F)=C(F)OC(F)(F)C(F)(F)C(F)(F)F,FC(F)=C(F)OC(F)(F)C(F)(F)C(F)(F)F,266.0340
+410_DTXSID50379879,DTXSID50379879,2-(Perfluoro-3-methylbutyl)ethyl methacrylate,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,382.1690
+411_DTXSID20337244,DTXSID20337244,2-Perfluoropropyl-2-propanol,CC(C)(O)C(F)(F)C(F)(F)C(F)(F)F,CC(C)(O)C(F)(F)C(F)(F)C(F)(F)F,228.1070
+412_DTXSID4059916,DTXSID4059916,Perfluorobutanoic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)F,O=C([O-])C(F)(F)C(F)(F)C(F)(F)F,214.0360
+413_DTXSID90371872,DTXSID90371872,"1,8-Divinylperfluorooctane",C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,C=CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,454.1480
+414_DTXSID50380985,DTXSID50380985,"1H,1H,2'H-Perfluorodipropyl ether",FC(C(F)(F)F)C(F)(F)OCC(F)(F)C(F)(F)F,FC(C(F)(F)F)C(F)(F)OCC(F)(F)C(F)(F)F,300.0670
+415_DTXSID50335975,DTXSID50335975,"1,8-Diiodoperfluorooctane",FC(F)(I)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,FC(F)(I)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,653.8640
+416_DTXSID00369826,DTXSID00369826,9:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,500.0950
+417_DTXSID70382047,DTXSID70382047,"1H,1H-Perfluorobutyl perfluorobutanesulfonate",O=S(=O)(OCC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)(OCC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,482.1360
+418_DTXSID8052017,DTXSID8052017,Perfluoro-3-(1H-perfluoroethoxy)propane,FC(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,FC(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,286.0400
+419_DTXSID00369821,DTXSID00369821,Perfluorooctanedioic acid,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)O,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)[O-],390.0760
+420_DTXSID4059914,DTXSID4059914,3:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)F,OCC(F)(F)C(F)(F)C(F)(F)F,200.0530
+421_DTXSID4059912,DTXSID4059912,Heptafluorobutyl iodide,FC(F)(F)C(F)(F)C(F)(F)CI,FC(F)(F)C(F)(F)C(F)(F)CI,309.9500
+422_DTXSID80194350,DTXSID80194350,Ethyl perfluoroheptanoate,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,392.1110
+423_DTXSID30627108,DTXSID30627108,((Perfluorooctyl)ethyl)phosphonic acid,O=P(O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=P(O)(O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,528.0950
+424_DTXSID30338641,DTXSID30338641,1-Bromoperfluorobutane,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,298.9300
+425_DTXSID00379960,DTXSID00379960,"1H,1H,8H-Perfluoro-1-octanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,382.0910
+426_DTXSID90174941,DTXSID90174941,"3H,3H-Perfluoro-2,4-hexanedione",O=C(CC(=O)C(F)(F)C(F)(F)F)C(F)(F)F,O=C(CC(=O)C(F)(F)C(F)(F)F)C(F)(F)F,258.0640
+427_DTXSID40380797,DTXSID40380797,"1H,1H-Perfluoro-3,6,9-trioxadecan-1-ol",OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,398.0710
+428_DTXSID80380039,DTXSID80380039,"Perfluoro-1,3,5-trimethylcyclohexane",FC(F)(F)C1(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(C(F)(F)F)C1(F)F,FC(F)(F)C1(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)C(F)(C(F)(F)F)C1(F)F,450.0630
+429_DTXSID60874027,DTXSID60874027,2-(Perfluorooctyl)ethyl dihydrogen phosphate,O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,544.0940
+430_DTXSID5030030,DTXSID5030030,Perfluorobutanesulfonic acid,O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,300.0980
+431_DTXSID10624392,DTXSID10624392,2-(N-methylperfluorooctane sulfonamido)acetic acid,CN(CC(=O)O)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,CN(CC(=O)[O-])S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,571.2050

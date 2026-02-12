@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.swo
+.venv/
+.venv*/
+logs/
+project_OBI/logs/
+project_OBI/data_processed/docking_scores/
